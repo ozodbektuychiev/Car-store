@@ -1,0 +1,164 @@
+body {
+    background-color: #f2f2f2;
+}
+h1 {
+    text-transform: uppercase;
+}
+.sedans {
+    position: absolute;
+    width: 920px;
+    height: 500px;
+    top: 171px;
+    left: 260px;
+    right: 260px;
+    bottom: 129px;
+    border-radius: 8px;
+    background-color: #E28625;
+ }
+ .sedans h1 {
+    width: 99px;
+    height: 48px;
+    top: 123px;
+    left: 48px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #f2f2f2;
+    position: absolute;
+    font-family: 'Big Shoulders Display';
+    font-style: normal;
+ }
+ .sedans p {
+    width: 212px;
+    height: 125px;
+    top: 196px;
+    left: 47.5px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    font-family: 'Lexend Deca';
+    position: absolute;
+    font-style: normal;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+ }
+ .sedans button {
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    background-color: #f2f2f2;
+    color: #E28625;
+    position: absolute;
+    left: 48px;
+    bottom: 48px;
+    border: 0 solid #E28625;
+}
+.sedan-icon {
+    top: 48px;
+    left: 48px;
+    position: absolute;
+}
+.suv {
+    width: 307px;
+    height: 500px;
+    top: 171px;
+    left: 567px;
+    border-radius: 8px;
+    position: absolute;
+    background-color: #006971;
+}
+.suv-icon {
+    position: absolute;
+    left: 48px;
+    top: 48px;
+}
+.suv h1 {
+    width: 67px;
+    height: 48px;
+    top: 123px;
+    left: 48px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #f2f2f2;
+    position: absolute;
+    font-family: 'Big Shoulders Display';
+    font-style: normal;
+}
+.suv p {
+    width: 212px;
+    height: 125px;
+    top: 196px;
+    left: 47.5px;
+    position: absolute;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #f2f2f2;
+    mix-blend-mode: normal;    
+}
+.suv button {
+    position: absolute;
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    left: 48px;
+    top: 404px;
+    background-color: #f2f2f2;    
+    color: #006971;    
+    border: 1px solid #006971;
+}
+.luxury {
+    width: 307px;
+    height: 500px;
+    top: 171px;
+    left: 873px;
+    position: absolute;
+    background-color: #004140;
+    border-radius: 0px 8px 8px 0px;
+}
+.luxury-icon {
+    top: 48px;
+    left: 48px;
+    position: absolute;
+}
+.luxury h1 {
+    position: absolute;
+    width: 95px;
+    height: 48px;
+    left: 48px;
+    top: 123px;
+    font-family: 'Big Shoulders Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #f2f2f2;
+}
+.luxury p {
+    position: absolute;
+    width: 212px;
+    height: 125px;
+    left: 47.5px;
+    top: 196px;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    
+}
+.luxury button {
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    color:#004140;
+    position: absolute;
+    left: 48px;
+    top: 404px;
+    border: #004140;
+}
